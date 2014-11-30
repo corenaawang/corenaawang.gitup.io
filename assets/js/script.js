@@ -6,10 +6,3 @@ jQuery(document).ready(function() {
 
 });
 
-
-//  $("#p1").click(function(){
-  	// $("#p3").hide();
-  	// $("#p1").click(function(){
-  	// $("#p3").hide();
-
-  

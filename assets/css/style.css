@@ -9,6 +9,11 @@ body{
 
 }
 
+.menu ul {
+	top: 0;
+	left: 0;
+}
+
 
 #home1 {
 	z-index: 3;
@@ -22,10 +27,6 @@ body{
 
 }
 
-.menu ul{
-	top: 0;
-	right: 3%;
-}
 
 #home1{
 	background-image: url("../img/home1.png");
@@ -59,7 +60,7 @@ ul{
     position: absolute;
     font-size: 30;
     bottom: 3%;
-    right: 53%;
+    right: 50%;
 }
 
 
@@ -631,11 +632,10 @@ transition:opacity 0.25s;
 #showmenu{
 	color: white;
 	font-size: 24px;
-	float: right;
-}
 
 }
 
+}
 /*#click1{
 	right: 25%;
 	bottom: 3%;
